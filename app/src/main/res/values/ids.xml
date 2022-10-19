@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="remove_alarm_card" type="id" />
+    <item name="add_alarm" type="id" />
+    <item name="time" type="id" />
+    <item name="remove_alarm" type="id" />
+    <item name="text_clock" type="id" />
+</resources>
